@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597183179691",
+    "project_id": "fix-finder-b5a8d",
+    "storage_bucket": "fix-finder-b5a8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597183179691:android:dc84361a9fafecd32480ee",
+        "android_client_info": {
+          "package_name": "com.example.fix_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_XIbPYETwPnqk5ZAxufCFkXgOkKxxOG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
